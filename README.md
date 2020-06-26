@@ -1,1 +1,1 @@
-# ML_Predict-Image-With-TensorFLow
+# ML_Image recognition
