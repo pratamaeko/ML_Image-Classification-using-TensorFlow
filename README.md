@@ -1,1 +1,1 @@
-# ML_Image recognition
+# Machine Learning for Image Classification using TensorFlow in Python
