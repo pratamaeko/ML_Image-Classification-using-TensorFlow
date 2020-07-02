@@ -1,1 +1,1 @@
-# Machine Learning for Image Recongnition using TensorFlow in Python
+# Machine Learning for Image Recognition using TensorFlow in Python
